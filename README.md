@@ -2,9 +2,9 @@
   <h1>
     <br/>
     <br/>
-    👩🏻‍⚕️
+    🤞
     <br />
-    repository for recovering ambitious
+    recovering : ambitious
     <br />
     <br />
     <br />
