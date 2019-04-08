@@ -50,6 +50,7 @@
     [] 청춘기획 회의 준비<br />
     [] Webpack 쓸만한 loader 정리<br />
     [] JSconf CFP 준비<br />
+    [] 스터디에 공백기 공지<br />
     [] pwc 데모사이트 nav제외하고 메인만 호다닥 퍼블리싱<br />
   </sup>
 </div>
